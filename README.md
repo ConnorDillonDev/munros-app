@@ -9,7 +9,7 @@ A React Native application designed and created for IOS. Designed aroung hiking 
 
 ## API Reference
 
-#### Get specific Munro
+#### Get Specific Munro
 
 Created by:  https://twitter.com/johneas10.
 
