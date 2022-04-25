@@ -43,5 +43,6 @@ Exampler return:
 - Camera access(hardware)
 - Images stored and retrevied from Cloudinary API
 - Suitable understandable errors on registration and login
+- Compass (hardware)
 
 
