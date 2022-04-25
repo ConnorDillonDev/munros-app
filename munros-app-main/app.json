@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "munros-app",
+    "slug": "munros-app",
+    "description": "Prototype for DWT Assessment 2021-2022",
+    "sdkVersion": "44.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/cover.png",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.connordillon.munrosapp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.connordillon.munrosapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
